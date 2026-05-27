@@ -1,0 +1,39 @@
+# AI Meeting Assistant - Requirements
+
+# Audio & Transcription
+openai-whisper
+yt-dlp
+ffmpeg-python
+pydub
+
+torchaudio>=2.2.0
+
+# Translation
+deep-translator
+
+# LangChain & LLM
+langchain
+langchain-community
+langchain-core
+mistralai
+
+# RAG Pipeline
+chromadb
+sentence-transformers
+huggingface-hub
+
+# Embeddings
+torch
+transformers
+
+# UI
+streamlit
+
+# Export
+fpdf2
+reportlab
+
+# Utilities
+python-dotenv
+tqdm
+numpy
