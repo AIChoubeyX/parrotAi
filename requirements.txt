@@ -12,14 +12,14 @@
 # deep-translator
 
 # # LangChain & LLM
-# langchain
-# langchain-community
-# langchain-core
+langchain
+langchain-community
+langchain-core
 # langchain-mistralai
 # mistralai
 
 # # RAG Pipeline
-# chromadb
+chromadb
 # sentence-transformers
 # huggingface-hub
 
